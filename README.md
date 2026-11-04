@@ -28,7 +28,7 @@ Play as a firefighter in a town threatened by spreading wildfires. Extinguish fi
 - Documentation – Project report
 - Screenshots – Gameplay images
 
-## 👥 Team Members
+## 👥 Team Member
 - A. Sathwik
 ## 👨‍🏫 Project Guide
 Dr. Vijaya Chandra Jadala
